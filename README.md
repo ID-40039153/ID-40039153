@@ -14,3 +14,8 @@ ${\color{#858585}\text{art by monrehc}}$
 main account -> <a href="https://github.com/awe-someG">@awe-someG</a>
   </sub>
 </p>
+
+<p align="center">
+${\color{#017a8f}\text{"⠀⠀⠀⠀But I don't even know your Name, So I will call you 'Medicine';}}$
+${\color{#017a8f}\text{You can Ease My Pain.}}$
+</p>
